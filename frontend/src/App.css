@@ -1,0 +1,9 @@
+     .App {
+       text-align: center;
+       padding: 20px;
+     }
+
+     .leaflet-container {
+       height: 600px;
+       width: 100%;
+     }
