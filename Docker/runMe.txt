@@ -1,0 +1,10 @@
+change directory:
+cd C:\A\03.GeoAppNT\01.Project\Docker
+
+start docker:
+docker-compose up -d
+
+verify:
+docker ps
+
+
